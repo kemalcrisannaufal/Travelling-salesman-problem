@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1673624190 source:c:\users\kemal crisannaufal\documents\tb\tubesstrukdat\graf.cpp
+	"graf.h"
+
+1673624181 c:\users\kemal crisannaufal\documents\tb\tubesstrukdat\graf.h
+	<bits/stdc++.h>
+
+1673624237 source:c:\users\kemal crisannaufal\documents\tb\tubesstrukdat\main.cpp
+	"graf.h"
+
+1673625413 source:c:\users\kemal crisannaufal\videos\mll_sirkuit_213133_213401\tubesstrukdat\graf.cpp
+	"graf.h"
+
+1673625413 c:\users\kemal crisannaufal\videos\mll_sirkuit_213133_213401\tubesstrukdat\graf.h
+	<bits/stdc++.h>
+
+1673625413 source:c:\users\kemal crisannaufal\videos\mll_sirkuit_213133_213401\tubesstrukdat\main.cpp
+	"graf.h"
+
